@@ -1,9 +1,7 @@
 # prueba_tecnica_php
 Prueba técnica para la empresa konecta
 
-# prueba_tecnica_php
 
-Prueba técnica para la empresa konecta
 
 ## Pasos a seguir para probar el aplicativo.
 
